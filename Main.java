@@ -11,7 +11,7 @@ class Main {
 		Scanner fileScanner = new Scanner(fr);
     Scanner option = new Scanner(System.in);
     int UserNum;
-    boolean menu;
+    boolean menu = true;
 
     do
     {
