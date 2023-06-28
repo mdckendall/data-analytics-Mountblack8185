@@ -49,14 +49,9 @@ class Main {
       if(UserNum == 5)
       {
         menu = false;
-      }
-    
-    
-    
-    
-    
+      }    
     }
     while(menu); 
-
+    
 	}
 }
