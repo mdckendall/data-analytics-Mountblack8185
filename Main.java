@@ -39,6 +39,7 @@ class Main {
       
       if(UserNum == 4)
       {
+        System.out.println("Current Students:");
         while (fileScanner.hasNextLine())
         {
           String name = fileScanner.nextLine();
